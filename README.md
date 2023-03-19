@@ -15,3 +15,6 @@ python memo_app.py
 # 表示画面
 
 <img width="266" alt="emo_memoの例" src="https://user-images.githubusercontent.com/95089385/226200933-223867b6-5216-4d46-ba12-cc188f714506.png">
+
+# 参考文献
+- Hugging Face Piplines [site](https://huggingface.co/docs/transformers/main_classes/pipelines)
