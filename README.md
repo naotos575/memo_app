@@ -32,3 +32,4 @@ python memo_app.py
 ## 参考文献
 - Hugging Face Piplines [[site]](https://huggingface.co/docs/transformers/main_classes/pipelines)
 - Pretrained Japanese Sentimental Analysis　[[site]](https://huggingface.co/jarvisx17/japanese-sentiment-analysis)
+- sqlite3 [[site]](https://docs.python.org/3.10/library/sqlite3.html)
