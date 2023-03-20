@@ -20,12 +20,11 @@ python memo_app.py
 ### 今後の計画
 - 自作のファインチューニングモデルの使用
 - positive, negative以外の評価
-- datの表示
+- dateの表示
 - テストコード
 
 ### 必要なこと
-- Sqliteに対する理解
-- アプリのフレームワーク理解
+- sqliteに対する理解
 
 などなど
 
