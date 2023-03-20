@@ -20,7 +20,7 @@ python memo_app.py
 ### 今後の計画
 - 自作のファインチューニングモデルの使用
 - positive, negative以外の評価
-- dataの表示
+- datの表示
 - テストコード
 
 ### 必要なこと
